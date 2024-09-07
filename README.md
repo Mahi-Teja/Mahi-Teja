@@ -42,7 +42,7 @@
 ### 🚀 Projects
 
 - **[Score-Board](https://github.com/Mahi-Teja/Score-Board)** : A Simple Web app to maintain Score card of Cricket.
-
+- **[Tic-tac-toe and Toss](https://github.com/Mahi-Teja/tic-tac-toe)** : Classic Tic-Tac-Toe game and Tic-tac-Toss game with unique touch to the Classic game.
 
 ---
 ### 📫 Get in Touch
